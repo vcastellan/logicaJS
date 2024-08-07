@@ -1,0 +1,1 @@
+saldoDisponivel = 1000;
