@@ -1,0 +1,1 @@
+numeroDeVendas = 50;
